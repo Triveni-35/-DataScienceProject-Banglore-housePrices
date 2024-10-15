@@ -1,0 +1,5 @@
+artifacts/banglore_home_prices_model.pickle
+artifacts/columns.json
+# Ignore any other datasets or large files
+*.csv
+*.png
